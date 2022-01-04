@@ -1,0 +1,9 @@
+Bill Of Materials:
+
+64 Si7216 Hall effect sensors
+8 2N7000 MOSFETs
+8 1k Resistors
+18 right-angle break-away header pins
+1 PCB
+18 jumper wires
+1 Arduino Mega
